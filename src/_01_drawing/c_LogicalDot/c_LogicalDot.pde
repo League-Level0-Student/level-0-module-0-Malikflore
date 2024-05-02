@@ -15,12 +15,12 @@ void draw() {
 //    Use the following code, but put your colors where indicated
 //    Remember to use the   fill()  command to set colors.
  
-if (mousePressed) {
- 
+if (mousePressed){
+
    //  put one color here 
- fill(#C303FF); 
+ fill(#FFFFFF); 
 } else {
-fill(#FC0A0E);  
+fill(#000000);  
    // put a different color here
   
 }  
